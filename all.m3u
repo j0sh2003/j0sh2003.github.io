@@ -1,0 +1,220 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AandE Network (East)" tvg-name="" tvg-logo="https://i.imgur.com/4QFkDVo.png" group-title="> World Entertainment <", A&E
+plugin://plugin.video.the-loop/eplayer/play?url=epg/302&Title=A&E&Icon=https://i.imgur.com/4QFkDVo.png
+
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="> World Entertainment <", ABC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/51&Title=ABC&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="" tvg-logo="https://i.imgur.com/EEIOe1N.png" group-title="> World Entertainment <", AMC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/303&Title=AMC&Icon=https://i.imgur.com/EEIOe1N.png
+
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="> World Entertainment <", Animal Planet
+plugin://plugin.video.the-loop/eplayer/play?url=epg/304&Title=Animal Planet&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="" tvg-logo="https://i.imgur.com/Q3nlI0z.png" group-title="> World Entertainment <", BBC America
+plugin://plugin.video.the-loop/eplayer/play?url=epg/305&Title=BBC America&Icon=https://i.imgur.com/Q3nlI0z.png
+
+#EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="> UK Entertainment <", BBC One UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/356&Title=BBC One UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png
+
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/8wkksp1680291500.png" group-title="> UK Entertainment <", BBC Two UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/357&Title=BBC Two UK&Icon=https://www.thesportsdb.com/images/media/channel/logo/8wkksp1680291500.png
+
+#EXTINF:-1 tvg-id="BBCThreeHD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hbd31f1643577726.png" group-title="> UK Entertainment <", BBC Three UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/358&Title=BBC Three UK&Icon=https://www.thesportsdb.com/images/media/channel/logo/hbd31f1643577726.png
+
+#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="> UK Entertainment <", BBC Four UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/359&Title=BBC Four UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png
+
+#EXTINF:-1 tvg-id="BETEast.us" tvg-name="" tvg-logo="https://i.imgur.com/xMRD76A.png" group-title="> World Entertainment <", BET Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/306&Title=BET Network&Icon=https://i.imgur.com/xMRD76A.png
+
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="" tvg-logo="https://i.imgur.com/e6VR81Q.png" group-title="> World Entertainment <", Bravo TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/307&Title=Bravo TV&Icon=https://i.imgur.com/e6VR81Q.png
+
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="" tvg-logo="https://i.imgur.com/uqcCFiU.png" group-title="> World Entertainment <", CBS
+plugin://plugin.video.the-loop/eplayer/play?url=epg/52&Title=CBS&Icon=https://i.imgur.com/uqcCFiU.png
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="> World Entertainment <", CNBC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/309&Title=CNBC&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="" tvg-logo="https://i.imgur.com/VQHoh0e.png" group-title="> World Entertainment <", CNN
+plugin://plugin.video.the-loop/eplayer/play?url=epg/345&Title=CNN&Icon=https://i.imgur.com/VQHoh0e.png
+
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ebn3be1666778400.png" group-title="> World Entertainment <", CW
+plugin://plugin.video.the-loop/eplayer/play?url=epg/300&Title=CW&Icon=https://www.thesportsdb.com/images/media/channel/logo/ebn3be1666778400.png
+
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="" tvg-logo="https://i.imgur.com/JtZXI3Q.png" group-title="> Kids Entertainment <", Cartoon Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/339&Title=Cartoon Network&Icon=https://i.imgur.com/JtZXI3Q.png
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="> UK Entertainment <", Channel 4 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/354&Title=Channel 4 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="> UK Entertainment <", Channel 5 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/355&Title=Channel 5 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="" tvg-logo="https://i.imgur.com/J9C5eGt.png" group-title="> World Entertainment <", Comedy Central
+plugin://plugin.video.the-loop/eplayer/play?url=epg/310&Title=Comedy Central&Icon=https://i.imgur.com/J9C5eGt.png
+
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" group-title="> UK Entertainment <", Dave Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/348&Title=Dave Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png
+
+#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="> World Entertainment <", Discovery HD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/313&Title=Discovery HD&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png
+
+#EXTINF:-1 tvg-id="Discovery Life Channel" tvg-name="" tvg-logo="https://i.imgur.com/HiIqETf.png" group-title="> World Entertainment <", Discovery Life
+plugin://plugin.video.the-loop/eplayer/play?url=epg/311&Title=Discovery Life&Icon=https://i.imgur.com/HiIqETf.png
+
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="" tvg-logo="https://i.imgur.com/5SpAvuk.png" group-title="> Kids Entertainment <", Disney Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/312&Title=Disney Channel&Icon=https://i.imgur.com/5SpAvuk.png
+
+#EXTINF:-1 tvg-id="Disney XD (East)" tvg-name="" tvg-logo="https://i.imgur.com/5dmSJSh.png" group-title="> Kids Entertainment <", Disney XD
+plugin://plugin.video.the-loop/eplayer/play?url=epg/314&Title=Disney XD&Icon=https://i.imgur.com/5dmSJSh.png
+
+#EXTINF:-1 tvg-id="E! Entertainment Television HDTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/xSNY9MG.png" group-title="> World Entertainment <", E! Entertainment
+plugin://plugin.video.the-loop/eplayer/play?url=epg/315&Title=E! Entertainment&Icon=https://i.imgur.com/xSNY9MG.png
+
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" group-title="> UK Entertainment <", E4 Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/363&Title=E4 Channel&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png
+
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="-" tvg-logo="https://i.imgur.com/2FT88cw.png" group-title="> UK Entertainment <", Film4
+plugin://plugin.video.the-loop/eplayer/play?url=epg/688&Title=Film4&Icon=https://i.imgur.com/2FT88cw.png
+
+#EXTINF:-1 tvg-id="FoxEast.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png" group-title="> World Entertainment <", FOX
+plugin://plugin.video.the-loop/eplayer/play?url=epg/54&Title=FOX&Icon=https://www.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png
+
+#EXTINF:-1 tvg-id="FX Movie Channel" tvg-name="" tvg-logo="https://i.imgur.com/dja7am4.png" group-title="> World Entertainment <", FX Movie Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/381&Title=FX Movie Channel&Icon=https://i.imgur.com/dja7am4.png
+
+#EXTINF:-1 tvg-id="FXEast.us" tvg-name="" tvg-logo="https://i.imgur.com/YCaTbxE.png" group-title="> World Entertainment <", FX TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/317&Title=FX TV&Icon=https://i.imgur.com/YCaTbxE.png
+
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png" group-title="> World Entertainment <", MeTV Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/662&Title=METV USA&Icon=https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png
+
+#EXTINF:-1 tvg-id="Freeform (East)" tvg-name="" tvg-logo="https://i.imgur.com/jf10lND.png" group-title="> World Entertainment <", Freeform
+plugin://plugin.video.the-loop/eplayer/play?url=epg/301&Title=Freeform&Icon=https://i.imgur.com/jf10lND.png
+
+#EXTINF:-1 tvg-id="Game Show Network HDTV (EAST)" tvg-name="" tvg-logo="https://i.imgur.com/Hfwm4kf.png" group-title="> World Entertainment <", Game Show Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/319&Title=Game Show Network&Icon=https://i.imgur.com/Hfwm4kf.png
+
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="-" tvg-logo="https://i.imgur.com/idMsvza.png" group-title="> UK Entertainment <", Gold
+plugin://plugin.video.the-loop/eplayer/play?url=epg/687&Title=Gold&Icon=https://i.imgur.com/idMsvza.png
+
+#EXTINF:-1 tvg-id="HBO (East)" tvg-name="" tvg-logo="https://i.imgur.com/tgRTts5.png" group-title="> World Entertainment <", HBO
+plugin://plugin.video.the-loop/eplayer/play?url=epg/321&Title=HBO&Icon=https://i.imgur.com/tgRTts5.png
+
+#EXTINF:-1 tvg-id="History (East)" tvg-name="" tvg-logo="https://i.imgur.com/Es2KChJ.png" group-title="> World Entertainment <", History
+plugin://plugin.video.the-loop/eplayer/play?url=epg/322&Title=History&Icon=https://i.imgur.com/Es2KChJ.png
+
+#EXTINF:-1 tvg-id="ION East Cable/Dish" tvg-name="" tvg-logo="https://i.imgur.com/l3weFin.png" group-title="> World Entertainment <", ION Television
+plugin://plugin.video.the-loop/eplayer/play?url=epg/325&Title=ION Television&Icon=https://i.imgur.com/l3weFin.png
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="> UK Entertainment <", ITV 1 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/350&Title=ITV 1 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="> UK Entertainment <", ITV 2 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/351&Title=ITV 2 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png
+
+#EXTINF:-1 tvg-id="ITV3HD.uk" tvg-name="" tvg-logo="https://i.imgur.com/M6GD6p1.png" group-title="> UK Entertainment <", ITV 3 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/352&Title=ITV 3 UK&Icon=https://i.imgur.com/M6GD6p1.png
+
+#EXTINF:-1 tvg-id="ITV4HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="> UK Entertainment <", ITV 4 UK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/353&Title=ITV 4 UK&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png
+
+#EXTINF:-1 tvg-id="Investigation Discovery HDTV" tvg-name="" tvg-logo="https://i.imgur.com/SDFQyJV.png" group-title="> World Entertainment <", Investigation Discovery
+plugin://plugin.video.the-loop/eplayer/play?url=epg/324&Title=Investigation Discovery&Icon=https://i.imgur.com/SDFQyJV.png
+
+#EXTINF:-1 tvg-id="Lifetime Movies (East)" tvg-name="" tvg-logo="https://i.imgur.com/ylgUOon.png" group-title="> World Entertainment <", Lifetime Movie Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/389&Title=Lifetime Movie Network&Icon=https://i.imgur.com/ylgUOon.png
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="" tvg-logo="https://i.imgur.com/2JXicrG.png" group-title="> World Entertainment <", MSNBC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/327&Title=MSNBC&Icon=https://i.imgur.com/2JXicrG.png
+
+#EXTINF:-1 tvg-id="MTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/sf2MxFO.png" group-title="> World Entertainment <", MTV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/371&Title=MTV&Icon=https://i.imgur.com/sf2MxFO.png
+
+#EXTINF:-1 tvg-id="Nickelodeon HDTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/0j9uS1c.png" group-title="> Kids Entertainment <", NICK
+plugin://plugin.video.the-loop/eplayer/play?url=epg/330&Title=NICK&Icon=https://i.imgur.com/0j9uS1c.png
+
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="" tvg-logo="https://i.imgur.com/OQGtADo.png" group-title="> World Entertainment <", National Geographic
+plugin://plugin.video.the-loop/eplayer/play?url=epg/328&Title=National Geographic&Icon=https://i.imgur.com/OQGtADo.png
+
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="> USA Sport <", NBC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/53&Title=NBC&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png
+
+#EXTINF:-1 tvg-id="The Oprah Winfrey Network HDTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/otZWFQ7.png" group-title="> World Entertainment <", Oprah Winfrey Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/331&Title=Oprah Winfrey Network&Icon=https://i.imgur.com/otZWFQ7.png
+
+#EXTINF:-1 tvg-id="Oxygen (East)" tvg-name="" tvg-logo="https://i.imgur.com/5GArYYv.png" group-title="> World Entertainment <", Oxygen TV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/332&Title=Oxygen TV&Icon=https://i.imgur.com/5GArYYv.png
+
+#EXTINF:-1 tvg-id="Paramount Network HDTV (East)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/paramount-network-uk.png" group-title="> World Entertainment <", Paramount Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/334&Title=Paramount Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/paramount-network-uk.png
+
+#EXTINF:-1 channel-id="pbs-WGTV" tvg-id="WGTV" tvg-logo="https://image.pbs.org/stations/wgtv-color-single-brand-logo-IeTkPR9.png" , PBS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/7adc8ccc-1cc4-473f-99e4-98f12cc01eae-dash|Content-Type=application%2Foctet-stream&user-agent=okhttp%2F4.9.0|R{SSM}|
+https://urs-anonymous-detect.pbs.org/redirect/3c3253196e494e788505fa749716237d/|user-agent=okhttp%2F4.9.0
+
+#EXTINF:-1 tvg-id="Showtime (East)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="> World Entertainment <", Showtime
+plugin://plugin.video.the-loop/eplayer/play?url=epg/333&Title=Showtime&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png
+
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="-" tvg-logo="https://i.imgur.com/vxW5rfJ.png" group-title="> UK Entertainment <", Sky Arts
+plugin://plugin.video.the-loop/eplayer/play?url=epg/683&Title=Sky Arts&Icon=https://i.imgur.com/vxW5rfJ.png
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="" tvg-logo="https://i.imgur.com/kyVtjAP.png" group-title="> UK Entertainment <", Sky Atlantic
+plugin://plugin.video.the-loop/eplayer/play?url=epg/362&Title=Sky Atlantic&Icon=https://i.imgur.com/kyVtjAP.png
+
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="-" tvg-logo="https://i.imgur.com/k34fde0.png" group-title="> UK Entertainment <", Sky Comedy
+plugin://plugin.video.the-loop/eplayer/play?url=epg/684&Title=Sky Comedy&Icon=https://i.imgur.com/k34fde0.png
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="-" tvg-logo="https://i.imgur.com/in0TETA.png" group-title="> UK Entertainment <", Sky Crime
+plugin://plugin.video.the-loop/eplayer/play?url=epg/685&Title=Sky Crime&Icon=https://i.imgur.com/in0TETA.png
+
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="-" tvg-logo="https://i.imgur.com/PftacM6.png" group-title="> UK Entertainment <", Sky History
+plugin://plugin.video.the-loop/eplayer/play?url=epg/686&Title=Sky History&Icon=https://i.imgur.com/PftacM6.png
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="-" tvg-logo="https://i.imgur.com/6U1PUtU.png" group-title="> UK Entertainment <", Sky Showcase
+plugin://plugin.video.the-loop/eplayer/play?url=epg/682&Title=Sky Showcase&Icon=https://i.imgur.com/6U1PUtU.png
+
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="" tvg-logo="https://i.imgur.com/VZqEPkf.png" group-title="> UK Entertainment <", Sky Witness
+plugin://plugin.video.the-loop/eplayer/play?url=epg/361&Title=Sky Witness&Icon=https://i.imgur.com/VZqEPkf.png
+
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="" tvg-logo="https://i.imgur.com/1OBAGq3.png" group-title="> World Entertainment <", Starz
+plugin://plugin.video.the-loop/eplayer/play?url=epg/335&Title=Starz&Icon=https://i.imgur.com/1OBAGq3.png
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="> World Entertainment <", TBS
+plugin://plugin.video.the-loop/eplayer/play?url=epg/336&Title=TBS&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png
+
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-name="" tvg-logo="https://i.imgur.com/b584AbW.png" group-title="> World Entertainment <", TLC
+plugin://plugin.video.the-loop/eplayer/play?url=epg/337&Title=TLC&Icon=https://i.imgur.com/b584AbW.png
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/16rsdr1657046269.png" group-title="> World Entertainment <", TNT
+plugin://plugin.video.the-loop/eplayer/play?url=epg/338&Title=TNT&Icon=https://www.thesportsdb.com/images/media/channel/logo/16rsdr1657046269.png
+
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="" tvg-logo="https://i.imgur.com/UxX1EgB.png" group-title="> World Entertainment <", TVLAND
+plugin://plugin.video.the-loop/eplayer/play?url=epg/342&Title=TVLAND&Icon=https://i.imgur.com/UxX1EgB.png
+
+#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="" tvg-logo="https://i.imgur.com/3B46KFv.png" group-title="> World Entertainment <", The Food Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/384&Title=The Food Network&Icon=https://i.imgur.com/3B46KFv.png
+
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="" tvg-logo="https://i.imgur.com/C7Mbd1e.png" group-title="> World Entertainment <", The Hallmark Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/320&Title=The Hallmark Channel&Icon=https://i.imgur.com/C7Mbd1e.png
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="" tvg-logo="https://i.imgur.com/YRX2tY8.png" group-title="> World Entertainment <", The Weather Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/394&Title=The Weather Channel&Icon=https://i.imgur.com/YRX2tY8.png
+
+#EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="" tvg-logo="https://i.imgur.com/OiV302w.png" group-title="> World Entertainment <", Travel Channel
+plugin://plugin.video.the-loop/eplayer/play?url=epg/340&Title=Travel Channel&Icon=https://i.imgur.com/OiV302w.png
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="> World Entertainment <", USA Network
+plugin://plugin.video.the-loop/eplayer/play?url=epg/343&Title=USA Network&Icon=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png
+
+#EXTINF:-1 tvg-id="VH1 HDTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/Jhd7sC2.png" group-title="> World Entertainment <", VH1
+plugin://plugin.video.the-loop/eplayer/play?url=epg/344&Title=VH1&Icon=https://i.imgur.com/Jhd7sC2.png
+
+#EXTINF:-1 tvg-id="truTV HDTV (East)" tvg-name="" tvg-logo="https://i.imgur.com/21lB7bs.png" group-title="> World Entertainment <", truTV
+plugin://plugin.video.the-loop/eplayer/play?url=epg/341&Title=truTV&Icon=https://i.imgur.com/21lB7bs.png
